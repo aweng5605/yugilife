@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yugilife/static/css/main.ed8a188b.chunk.css",
-    "main.js": "/yugilife/static/js/main.ec817d24.chunk.js",
-    "main.js.map": "/yugilife/static/js/main.ec817d24.chunk.js.map",
+    "main.js": "/yugilife/static/js/main.5f7edde0.chunk.js",
+    "main.js.map": "/yugilife/static/js/main.5f7edde0.chunk.js.map",
     "runtime-main.js": "/yugilife/static/js/runtime-main.82ba9936.js",
     "runtime-main.js.map": "/yugilife/static/js/runtime-main.82ba9936.js.map",
     "static/js/2.c1beba74.chunk.js": "/yugilife/static/js/2.c1beba74.chunk.js",
     "static/js/2.c1beba74.chunk.js.map": "/yugilife/static/js/2.c1beba74.chunk.js.map",
     "index.html": "/yugilife/index.html",
-    "precache-manifest.fcb810ed8015c5f826d63445a7169588.js": "/yugilife/precache-manifest.fcb810ed8015c5f826d63445a7169588.js",
+    "precache-manifest.af7832cf142de34a0c3c5435061da0ce.js": "/yugilife/precache-manifest.af7832cf142de34a0c3c5435061da0ce.js",
     "service-worker.js": "/yugilife/service-worker.js",
     "static/css/main.ed8a188b.chunk.css.map": "/yugilife/static/css/main.ed8a188b.chunk.css.map",
     "static/js/2.c1beba74.chunk.js.LICENSE.txt": "/yugilife/static/js/2.c1beba74.chunk.js.LICENSE.txt",
@@ -45,6 +45,6 @@
     "static/js/runtime-main.82ba9936.js",
     "static/js/2.c1beba74.chunk.js",
     "static/css/main.ed8a188b.chunk.css",
-    "static/js/main.ec817d24.chunk.js"
+    "static/js/main.5f7edde0.chunk.js"
   ]
 }

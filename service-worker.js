@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yugilife/precache-manifest.fcb810ed8015c5f826d63445a7169588.js"
+  "/yugilife/precache-manifest.af7832cf142de34a0c3c5435061da0ce.js"
 );
 
 self.addEventListener('message', (event) => {

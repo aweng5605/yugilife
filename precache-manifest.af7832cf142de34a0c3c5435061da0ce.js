@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20a22dab478f8afd4651027f002ae6f8",
+    "revision": "0add4fe1f63f94b72c7054132764e7c0",
     "url": "/yugilife/index.html"
   },
   {
-    "revision": "44e2cd470c2740d44b04",
+    "revision": "f755f052415fc00ebce8",
     "url": "/yugilife/static/css/main.ed8a188b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yugilife/static/js/2.c1beba74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "44e2cd470c2740d44b04",
-    "url": "/yugilife/static/js/main.ec817d24.chunk.js"
+    "revision": "f755f052415fc00ebce8",
+    "url": "/yugilife/static/js/main.5f7edde0.chunk.js"
   },
   {
     "revision": "fbf46fb6db77ddf65b65",
