@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0add4fe1f63f94b72c7054132764e7c0",
+    "revision": "98c6f05763aeee518f4a3563267d7bab",
     "url": "/yugilife/index.html"
   },
   {
-    "revision": "f755f052415fc00ebce8",
-    "url": "/yugilife/static/css/main.ed8a188b.chunk.css"
+    "revision": "d75e81c4c42859e0f2f5",
+    "url": "/yugilife/static/css/main.c66077f7.chunk.css"
   },
   {
-    "revision": "163822a187f6b3426c4d",
-    "url": "/yugilife/static/js/2.c1beba74.chunk.js"
+    "revision": "ebe88974b84c011a5d5e",
+    "url": "/yugilife/static/js/2.1e163ff7.chunk.js"
   },
   {
     "revision": "f8a308b7fc55ee590675d344f7edc451",
-    "url": "/yugilife/static/js/2.c1beba74.chunk.js.LICENSE.txt"
+    "url": "/yugilife/static/js/2.1e163ff7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f755f052415fc00ebce8",
-    "url": "/yugilife/static/js/main.5f7edde0.chunk.js"
+    "revision": "d75e81c4c42859e0f2f5",
+    "url": "/yugilife/static/js/main.97d9ab7b.chunk.js"
   },
   {
     "revision": "fbf46fb6db77ddf65b65",

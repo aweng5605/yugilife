@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/yugilife/static/css/main.ed8a188b.chunk.css",
-    "main.js": "/yugilife/static/js/main.5f7edde0.chunk.js",
-    "main.js.map": "/yugilife/static/js/main.5f7edde0.chunk.js.map",
+    "main.css": "/yugilife/static/css/main.c66077f7.chunk.css",
+    "main.js": "/yugilife/static/js/main.97d9ab7b.chunk.js",
     "runtime-main.js": "/yugilife/static/js/runtime-main.82ba9936.js",
-    "runtime-main.js.map": "/yugilife/static/js/runtime-main.82ba9936.js.map",
-    "static/js/2.c1beba74.chunk.js": "/yugilife/static/js/2.c1beba74.chunk.js",
-    "static/js/2.c1beba74.chunk.js.map": "/yugilife/static/js/2.c1beba74.chunk.js.map",
+    "static/js/2.1e163ff7.chunk.js": "/yugilife/static/js/2.1e163ff7.chunk.js",
     "index.html": "/yugilife/index.html",
-    "precache-manifest.af7832cf142de34a0c3c5435061da0ce.js": "/yugilife/precache-manifest.af7832cf142de34a0c3c5435061da0ce.js",
+    "precache-manifest.7ac42c7e0525829d39e6f76a2b3d778d.js": "/yugilife/precache-manifest.7ac42c7e0525829d39e6f76a2b3d778d.js",
     "service-worker.js": "/yugilife/service-worker.js",
-    "static/css/main.ed8a188b.chunk.css.map": "/yugilife/static/css/main.ed8a188b.chunk.css.map",
-    "static/js/2.c1beba74.chunk.js.LICENSE.txt": "/yugilife/static/js/2.c1beba74.chunk.js.LICENSE.txt",
+    "static/js/2.1e163ff7.chunk.js.LICENSE.txt": "/yugilife/static/js/2.1e163ff7.chunk.js.LICENSE.txt",
     "static/media/home.scss": "/yugilife/static/media/photoshop.6630c2ff.svg",
     "static/media/input.scss": "/yugilife/static/media/Chevron_down_font_awesome.938153f6.svg",
     "static/media/Effect.png": "/yugilife/static/media/Effect.ad4a3539.png",
@@ -43,8 +39,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.82ba9936.js",
-    "static/js/2.c1beba74.chunk.js",
-    "static/css/main.ed8a188b.chunk.css",
-    "static/js/main.5f7edde0.chunk.js"
+    "static/js/2.1e163ff7.chunk.js",
+    "static/css/main.c66077f7.chunk.css",
+    "static/js/main.97d9ab7b.chunk.js"
   ]
 }
